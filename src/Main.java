@@ -21,7 +21,5 @@ public class Main {
        System.out.println("Общий вес в граммах равен: "+ sumOfWeights);
        float sumOfWeightsKg = sumOfWeights/1000;
        System.out.println("Общий вес в килограммах равен: "+ sumOfWeightsKg);
-
-
     }
 }
