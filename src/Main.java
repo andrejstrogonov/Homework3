@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int firstVariable = 41000;
-        System.out.println("Значение переменной firstVariable c типом int равно "+firstVariable);
+        System.out.println(String.format("Значение переменной firstVariable c типом int равно " + firstVariable));
         byte secondVariable = 125;
         System.out.println("Значение переменной secondVariable c типом byte равно "+secondVariable);
         short thirdVariable = 30000;
