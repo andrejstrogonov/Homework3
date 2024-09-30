@@ -13,5 +13,6 @@ public class Main {
         int month = 30*day;
         int monthPerformance = dayPerformance*30;
         System.out.println("За месяц машина произвела "+ monthPerformance + " штук бутылок");
+        ала
     }
 }
